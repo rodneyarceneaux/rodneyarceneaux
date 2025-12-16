@@ -68,6 +68,10 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 - CISSP
 - CISM
 - CCSK
+- CASP+
+- CySA+
+- Pentest+
+- Security+
 - AWS Solutions Architect – Associate  
 - (Pursuing) AWS Security Specialty
 
