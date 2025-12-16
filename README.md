@@ -1,54 +1,102 @@
-<h1>Hi, I'm Rodney! <br/><a href="https://github.com/rodneyarceneaux">Programmer</a>, <a href="https://www.linkedin.com/in/rodneyarceneaux116/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/UC1JInObfAGdplWIT5U3B3Qw">YouTuber</a></h1>
+<h1>Hi, I'm Rodney 👋</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<b>Cloud Security Engineer | DevSecOps | Compliance Automation | Cybersecurity Educator</b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+I’m a cybersecurity professional with 8+ years of experience across enterprise security, cloud security, SIEM, endpoint protection, vulnerability management, and compliance frameworks.  
 
-<h2>📺 Popular YouTube Videos</h2>
+My current focus is on **cloud-native security**, **DevSecOps automation**, and **secure AI adoption** — building practical, modern security solutions that scale with real-world engineering teams.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🔐 Current Focus Areas
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- ☁️ **Cloud Security (AWS & Azure)**
+  - IAM design & auditing
+  - Secure networking & identity
+  - Native security services (GuardDuty, Security Hub, Sentinel, etc.)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- ⚙️ **DevSecOps & Security Automation**
+  - Terraform & infrastructure-as-code security
+  - CI/CD security gates (Checkov, tfsec, Semgrep)
+  - GitHub Actions & cloud-native pipelines
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 **AI & Modern Security**
+  - Securing AI workflows and data
+  - Private AI deployments
+  - AI-assisted compliance & security analysis
 
-Here are some ideas to get you started:
+- 📋 **GRC & Compliance Engineering**
+  - HITRUST, PCI-DSS, SOC 2, CMMC
+  - Audit readiness automation
+  - Evidence collection & control mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Featured Projects & Labs
+
+### 🚀 Cloud & DevSecOps Labs
+- **Secure CI/CD Pipeline (Terraform + GitHub Actions + OIDC)**
+  - Infrastructure deployment with automated security scanning
+  - No static credentials, policy-as-code enforcement
+
+- **AWS IAM Access Analyzer Automation**
+  - Automated detection of overly permissive access
+  - Lambda-based security reporting
+
+- **Wazuh SIEM on AWS**
+  - End-to-end SIEM deployment
+  - Log ingestion, alerting, and detection use cases
+
+---
+
+### 🛡️ Security Engineering & Automation
+- **PowerShell & Python Security Tooling**
+  - Active Directory automation
+  - File integrity monitoring
+  - Log analysis & enrichment
+  - Security data normalization
+
+- **Vulnerability & Endpoint Security**
+  - Rapid7 InsightVM
+  - CrowdStrike Falcon
+  - Cloud vulnerability scanning & remediation workflows
+
+---
+
+## 📚 Certifications
+
+- CISSP
+- CISM
+- CCSK
+- AWS Solutions Architect – Associate  
+- (Pursuing) AWS Security Specialty
+
+---
+
+## 🎓 Teaching & Community
+
+I also build **hands-on labs and educational content** to help others:
+- Transition into cybersecurity
+- Level up into cloud security roles
+- Learn practical DevSecOps security skills
+
+This work lives under **RSA Cyber Academy**, where I focus on **real-world, employer-relevant labs** — not theory dumps.
+
+---
+
+## 📺 Content & Media
+
+- 🎥 YouTube: Cloud security labs, career strategy, and real-world security breakdowns
+- 🧪 Lab walkthroughs & architecture explanations
+- 🧭 Career guidance for security professionals moving beyond entry-level
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rodneyarceneaux116/)  
+[YouTube](https://www.youtube.com/@rsacyberacademy)  
+
+---
+
+> 🧠 *Security is moving fast. My goal is to stay sharp, automate what matters, and build security that works at cloud scale.*
