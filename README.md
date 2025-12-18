@@ -35,15 +35,15 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 ## 🧠 Featured Projects & Labs
 
 ### 🚀 Cloud & DevSecOps Labs
-- **Secure CI/CD Pipeline (Terraform + GitHub Actions + OIDC)**
+- **[Secure CI/CD Pipeline (Terraform + GitHub Actions + OIDC)](https://github.com/rodneyarceneaux/aws-secure-ci-cd)**
   - Infrastructure deployment with automated security scanning
   - No static credentials, policy-as-code enforcement
 
-- **AWS IAM Access Analyzer Automation**
+- **[AWS IAM Access Analyzer Automation] (https://github.com/rodneyarceneaux/hitrust-encryption-evidence-automation)**
   - Automated detection of overly permissive access
   - Lambda-based security reporting
 
-- **Wazuh SIEM on AWS**
+- **Wazuh SIEM on AWS (Coming Soon)**
   - End-to-end SIEM deployment
   - Log ingestion, alerting, and detection use cases
 
