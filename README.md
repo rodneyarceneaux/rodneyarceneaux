@@ -39,7 +39,7 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
   - Infrastructure deployment with automated security scanning
   - No static credentials, policy-as-code enforcement
 
-- **[AWS IAM Access Analyzer Automation] (https://github.com/rodneyarceneaux/hitrust-encryption-evidence-automation)**
+- **[AWS IAM Access Analyzer Automation](https://github.com/rodneyarceneaux/hitrust-encryption-evidence-automation)**
   - Automated detection of overly permissive access
   - Lambda-based security reporting
 
