@@ -26,7 +26,7 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
   - AI-assisted compliance & security analysis
 
 - 📋 **GRC & Compliance Engineering**
-  - HITRUST, PCI-DSS, SOC 2, CMMC
+  - HITRUST, PCI-DSS,CMMC
   - Audit readiness automation
   - Evidence collection & control mapping
 
@@ -42,10 +42,6 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 - **[AWS IAM Access Analyzer Automation](https://github.com/rodneyarceneaux/hitrust-encryption-evidence-automation)**
   - Automated detection of overly permissive access
   - Lambda-based security reporting
-
-- **Wazuh SIEM on AWS (Coming Soon)**
-  - End-to-end SIEM deployment
-  - Log ingestion, alerting, and detection use cases
 
 ---
 
