@@ -53,8 +53,12 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
   - Security data normalization
 
 - **Vulnerability & Endpoint Security**
-  - Rapid7 InsightVM
+  - Rapid7 InsightVM,InsightCloudSec,InsightAppSec
+  - Nessus
+  - Horizon3AI
   - CrowdStrike Falcon
+  - Sentinel One
+  - Datadog CPSM & SIEM
   - Cloud vulnerability scanning & remediation workflows
 
 ---
