@@ -39,7 +39,7 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
   - Infrastructure deployment with automated security scanning
   - No static credentials, policy-as-code enforcement
     
-- **[trivy-security-scan](https://github.com/rodneyarceneaux/trivy-security-scan)**
+- **[Dependency Security Scanning with Trivy](https://github.com/rodneyarceneaux/trivy-security-scan)**
   - Integrated Trivy into GitHub Actions to automate dependency vulnerability scanning in CI
   - Enforced a security gate blocking builds on HIGH/CRITICAL findings using exit codes
  
