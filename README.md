@@ -38,6 +38,14 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 - **[Secure CI/CD Pipeline (Terraform + GitHub Actions + OIDC)](https://github.com/rodneyarceneaux/aws-secure-ci-cd)**
   - Infrastructure deployment with automated security scanning
   - No static credentials, policy-as-code enforcement
+    
+- **[trivy-security-scan](https://github.com/rodneyarceneaux/trivy-security-scan)**
+  - Integrated Trivy into GitHub Actions to automate dependency vulnerability scanning in CI
+  - Enforced a security gate blocking builds on HIGH/CRITICAL findings using exit codes
+ 
+- **[Azure Application Gateway WAF + DAST Validation)](https://github.com/rodneyarceneaux/azure-waf-dast-lab)**
+  - Deployed and configured Azure Application Gateway WAF with OWASP rule enforcement
+  - Validated real-world attack protection using DAST testing against the deployed application
 
 - **[HITRUST Encryption Audit Automation](https://github.com/rodneyarceneaux/hitrust-encryption-evidence-automation)**
   - Automated detection of Unencrypted S3 buckets
