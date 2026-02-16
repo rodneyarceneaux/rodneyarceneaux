@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rodney 👋</h1>
 
-<b>Cloud Security Engineer | DevSecOps | Compliance Automation | Cybersecurity Educator</b>
+<b>Cloud Security Engineer | DevSecOps | Compliance Automation | Cybersecurity Mentor</b>
 
 I’m a cybersecurity professional with 8+ years of experience across enterprise security, cloud security, SIEM, endpoint protection, vulnerability management, and compliance frameworks.  
 
@@ -85,29 +85,9 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 
 ---
 
-## 🎓 Teaching & Community
-
-I also build **hands-on labs and educational content** to help others:
-- Transition into cybersecurity
-- Level up into cloud security roles
-- Learn practical DevSecOps security skills
-
-This work lives under **RSA Cyber Academy**, where I focus on **real-world, employer-relevant labs** — not theory dumps.
-
----
-
-## 📺 Content & Media
-
-- 🎥 YouTube: Cloud security labs, career strategy, and real-world security breakdowns
-- 🧪 Lab walkthroughs & architecture explanations
-- 🧭 Career guidance for security professionals moving beyond entry-level
-
----
-
 ## 🤝 Connect With Me
-
 [LinkedIn](https://www.linkedin.com/in/rodneyarceneaux116/)  
-[YouTube](https://www.youtube.com/@rsacyberacademy)  
+
 
 ---
 
