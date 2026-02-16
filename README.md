@@ -84,7 +84,7 @@ My current focus is on **cloud-native security**, **DevSecOps automation**, and 
 - (Pursuing) AWS Security Specialty
 
 ---
-## 🤝 Community & Mentorship
+## 🌐 Community & Mentorship
 
 I mentor aspiring cybersecurity professionals through hands-on labs, cloud security walkthroughs, and DevSecOps projects inside my learning community.
 
